@@ -5,3 +5,4 @@ Bootstrap
 PHP
 Mysql
 Laravel
+JS
